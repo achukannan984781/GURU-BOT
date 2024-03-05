@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['919567813275', 'Abhi', true],
+  ['919072017651', 'Abhi', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "GuruBot~xHDLYUr8" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -50,12 +50,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '🐲  ܰ𝐒ꥑ꫶ꥊ𝐁𑂱̬𐤲𝐏͓̽𝐒ꩌꨮ𝐘᪵𝐂ꩌꨮ𝐎͓𐦐𝐑᪵̽𝐀͎̌𝐕ꩌꨮ𝐀̟̌𝐍̽𝐀᜔𝐍⃮᛭ꩌ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
+global.packname = '🐲  ܰ𝐒ꥑ꫶ꥊ𝐁𑂱̬𐤲𝐏͓̽𝐒ꩌꨮ𝐘᪵𝐂ꩌꨮ𝐎͓𐦐𝐑᪵̽𝐀͎̌𝐕ꩌꨮ𝐀̟̌𝐍̽𝐀᜔𝐍⃮᛭ꩌ' 
+global.author = '@abhijith' 
+global.menuvid = 'https://i.imgur.com/WHRAck6.jpeg'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/_.ab_xi_\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
